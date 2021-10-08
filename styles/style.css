@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200;500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 500ms;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.92);
+  font-family: "Stick No Bills", sans-serif;
+  letter-spacing: 0.1em;
+  font-size: 1.2em;
+}
+
+.title-bar {
+  background-color: black;
+  height: 5em;
+  position: fixed;
+  height: 4em;
+  width: 100%;
+  z-index: 1000;
+}
+
+.links {
+  display: flex;
+  max-width: 25em;
+  height: 100%;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header {
+  background-color: black;
+  color: white;
+  height: 20em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.header p {
+  font-size: 2em;
+  font-weight: 500;
+}
+
+.header-main-fix p {
+  margin-top: 0em;
+}
+
+.footer-fix a {
+  margin-top: 2em;
+}
+
+.footer-fix-about a {
+  margin-top: 1.5em;
+}
+
+a:hover {
+  color: rgb(238, 105, 132);
+}
+
+.colored {
+  color: rgb(238, 105, 132);
+}
+
+.top-wave {
+  margin-top: -0.1em;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.main {
+  height: 85em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.box {
+  height: 22em;
+  max-width: 40em;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0 5px 4px 0 rgba(0, 0, 0, 0.2);
+  margin: 0.5em;
+}
+
+.box:hover {
+  border: 1px solid rgb(238, 105, 132);
+  box-shadow: 0 5px 15px 0 rgb(238, 105, 132);
+}
+
+.box-title {
+  font-size: 1em;
+}
+
+.img {
+  width: 90%;
+  height: 85%;
+  padding-top: 1em;
+}
+
+.bottom-wave {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.footer {
+  color: white;
+  height: 10em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  margin-top: -0.1em;
+}
+
+.svg {
+  color: white;
+  margin-left: 0.5em;
+}
+
+.svg:hover {
+  color: rgb(238, 105, 132);
+  cursor: pointer;
+}
