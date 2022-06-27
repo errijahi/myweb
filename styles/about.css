@@ -21,15 +21,15 @@
   margin: 0.5em;
 }
 
+.box-about<p {
+  margin-top: 1em;
+}
+
 .box-svg {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
-  margin-top: 1em;
-}
-
-box-p {
   margin-top: 1em;
 }
 
