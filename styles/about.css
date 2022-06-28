@@ -33,6 +33,10 @@
   margin-top: 1em;
 }
 
+.footer-fix-about>a{
+  margin-bottom: 1em; 
+}
+
 @media only screen and (max-width: 600px) {
   .box-about {
     padding: 0.5em;
