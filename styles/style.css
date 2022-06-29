@@ -31,7 +31,7 @@ body {
   transition: 500ms;
 }
 
-.links a.current {
+.current {
   color: rgb(238, 105, 132);
   transition: 500ms;
 }
