@@ -31,6 +31,11 @@ body {
   transition: 500ms;
 }
 
+.links a:active {
+  color: rgb(238, 105, 132);
+  transition: 500ms;
+}
+
 .header {
   background-color: black;
   color: white;
