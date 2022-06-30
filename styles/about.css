@@ -23,7 +23,7 @@
 
 .box-img-p{
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 
 .box-img-p>p {
