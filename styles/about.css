@@ -28,6 +28,10 @@
   align-items: center;
 }
 
+.box-img{
+   display: flex;
+}
+
 .box-p>p {
   margin-top: 1em;
 }
