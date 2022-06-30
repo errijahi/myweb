@@ -65,4 +65,7 @@
   .box-about {
     padding: 0.5em;
   }
+  .box-img{
+   justify-content: center;
+}
 }
