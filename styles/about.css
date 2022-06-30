@@ -26,8 +26,8 @@
 }
 
 .box-about>img {
-  max-with: 10em;
-  max-hight: 10em;
+  max-width: 10em;
+  max-height: 10em;
 }
 
 .box-svg {
