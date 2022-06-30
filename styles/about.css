@@ -21,9 +21,11 @@
   margin: 0.5em;
 }
 
-.box-img-p{
-/*   display: flex;
-  flex-wrap: wrap; */
+.box-p{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .box-img-p>p {
