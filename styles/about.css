@@ -26,9 +26,9 @@
 }
 
 .box-about>img {
-  max-width: 20em;
-  max-height: 20em;
-  border-radius: 10em;
+  max-width: 15em;
+  max-height: 15em;
+  border-radius: 15em;
 }
 
 .box-svg {
