@@ -68,4 +68,7 @@
   .box-img{
    justify-content: center;
 }
+  .box-p{
+  margin: 0.5em;
+  }
 }
