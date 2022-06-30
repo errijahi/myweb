@@ -22,8 +22,8 @@
 }
 
 .box-img-p{
-  display: flex;
-  flex-wrap: nowrap;
+/*   display: flex;
+  flex-wrap: wrap; */
 }
 
 .box-img-p>p {
