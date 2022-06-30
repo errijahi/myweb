@@ -36,6 +36,10 @@
    flex-wrap: nowrap;
 }
 
+.familiar{
+  color:red;
+}
+
 .box-p>p {
   margin-top: 1em;
 }
