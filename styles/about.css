@@ -30,6 +30,7 @@
 
 .box-img{
    display: flex;
+   flex-wrap: wrap;
 }
 
 .box-p>p {
