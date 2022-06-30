@@ -35,6 +35,7 @@
 
 .box-p>p {
   margin-top: 1em;
+  width: 2em;
 }
 
 .box-img>img {
