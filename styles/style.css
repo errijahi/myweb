@@ -85,7 +85,7 @@ a:hover {
 }
 
 .main {
-  height: 485em;
+  height: 1085em;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
