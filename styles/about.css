@@ -29,10 +29,12 @@
 }
 
 .box-img{
+   max-width: 40em;
    display: flex;
    flex-wrap: wrap;
    justify-content: center;
    align-items: center;
+
 }
 
 .box-p>p {
