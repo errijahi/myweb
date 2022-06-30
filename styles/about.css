@@ -26,12 +26,11 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 1em;
 }
 
-/* .box-img-p>p {
+.box-p>p {
   margin-top: 1em;
-} */
+}
 
 .box-img>img {
   width: 300px;
