@@ -26,11 +26,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
-
-.box-img-p>p {
   margin-top: 1em;
 }
+
+/* .box-img-p>p {
+  margin-top: 1em;
+} */
 
 .box-img>img {
   width: 300px;
