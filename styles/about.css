@@ -21,6 +21,10 @@
   margin: 0.5em;
 }
 
+.box-about{
+ margin-top: 1em;
+}
+
 .box-p{
   display: flex;
   flex-direction: column;
