@@ -21,13 +21,13 @@
   margin: 0.5em;
 }
 
+.box-about>p {
+  margin-top: 1em;
+}
+
 .box-img-p{
 /*   display: flex;
   flex-wrap: wrap; */
-}
-
-.box-img-p>p {
-  margin-top: 1em;
 }
 
 .box-img-p>img {
