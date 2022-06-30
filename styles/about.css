@@ -30,7 +30,7 @@
   height: 300px;
   object-fit: cover;
   border-radius: 50%;
-  border-width: thick;
+  border-width: 1em;
   border-color: rgb(238, 105, 132);
 }
 
