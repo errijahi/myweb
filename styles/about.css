@@ -25,6 +25,11 @@
   margin-top: 1em;
 }
 
+.box-about>img {
+  max-with: 10em;
+  max-hight: 10em;
+}
+
 .box-svg {
   display: flex;
   flex-wrap: wrap;
