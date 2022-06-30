@@ -21,16 +21,16 @@
   margin: 0.5em;
 }
 
-.box-about>p {
-  margin-top: 1em;
-}
-
 .box-img-p{
 /*   display: flex;
   flex-wrap: wrap; */
 }
 
-.box-img-p>img {
+.box-img-p>p {
+  margin-top: 1em;
+}
+
+.box-about>img {
   width: 300px;
   height: 300px;
   object-fit: cover;
