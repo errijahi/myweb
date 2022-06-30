@@ -21,11 +21,6 @@
   margin: 0.5em;
 }
 
-.p-familiar{
- margin-top: 20em;
-  color: red;
-}
-
 .box-p{
   display: flex;
   flex-direction: column;
@@ -39,9 +34,6 @@
    max-width: 40em;
    display: flex;
    flex-wrap: nowrap;
-/*    justify-content: center;
-   align-items: center; */
-
 }
 
 .box-p>p {
