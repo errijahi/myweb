@@ -30,7 +30,7 @@
   height: 300px;
   object-fit: cover;
   border-radius: 50%;
-  border: 0.2em solid rgb(238, 105, 132);
+  border: 0.1em solid rgb(238, 105, 132);
 }
 
 .box-svg {
