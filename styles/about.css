@@ -33,6 +33,11 @@
   border: 0.2em solid rgb(238, 105, 132);
 }
 
+.box-img-p{
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .box-svg {
   display: flex;
   flex-wrap: wrap;
