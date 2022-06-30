@@ -26,8 +26,8 @@
 }
 
 .box-about>img {
-  max-width: 5em;
-  max-height: 15em;
+  max-width: 15em;
+  max-height: 5em;
   border-radius: 50%;
 }
 
