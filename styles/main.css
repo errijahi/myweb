@@ -35,3 +35,9 @@ img {
   justify-content: space-between;
   width: 100%;
 }
+
+.video{
+  margin-bottom: 3em;
+  width: 50em;  
+  height: 30em;
+}
