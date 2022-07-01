@@ -37,8 +37,8 @@ img {
 }
 
 .video{
-  width: 100vw;
-  hight: 50vw;
+  width: 80vw;
+  hight: 50vh;
   object-fit: contain;
   
 /*   margin-bottom: 3em;
