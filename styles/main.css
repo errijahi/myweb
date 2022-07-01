@@ -37,7 +37,7 @@ img {
 }
 
 .video{
-  object-fit: cover;
+  object-fit: contain;
   
 /*   margin-bottom: 3em;
   width: 50em;  
