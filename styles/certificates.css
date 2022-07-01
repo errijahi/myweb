@@ -1,6 +1,5 @@
 .main-certificates {
   height: 80em;
-/*   margin-top: 2em; */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -8,5 +7,5 @@
 }
 
 .box-certificates {
-/*   margin-top: 3em; */
+  margin-top: 3em;
 }
