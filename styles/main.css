@@ -39,11 +39,17 @@ img {
 .video{
    width: 40em;  
   height: 25em;
+  object-fit: contain;
 }
 
-@media screen and (max-width: 830px) {
+/* @media screen and (max-width: 830px) {
+  .video-box{
+   width: 40em;  
+  height: 25em;
+  }
   .video{
-   max-width: 200%;
+   max-width: 100%;
   height: auto;
+    fi
   }
-  }
+  } */
