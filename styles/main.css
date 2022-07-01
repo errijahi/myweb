@@ -44,7 +44,7 @@ img {
 
 @media screen and (max-width: 830px) {
   .video{
-    width: 99%;
-    height: 50%;
+   max-width: 100%;
+  height: auto;
   }
   }
