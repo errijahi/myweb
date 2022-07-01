@@ -37,7 +37,9 @@ img {
 }
 
 .video{
-  margin-bottom: 3em;
+  object-fit: cover;
+  
+/*   margin-bottom: 3em;
   width: 50em;  
-  height: 30em;
+  height: 30em; */
 }
