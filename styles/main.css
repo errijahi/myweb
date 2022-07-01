@@ -37,11 +37,13 @@ img {
 }
 
 .video{
-  width: 60vw;
-  hight: 70vh;
-/*   object-fit: contain; */
-  
-/*   margin-bottom: 3em;
-  width: 50em;  
-  height: 30em; */
+  margin-bottom: 3em;
+  width: 40em;  
+  height: 25em;
 }
+
+@media screen and (max-width: 830px) {
+  #video{
+    width: 99%;
+  }
+  }
